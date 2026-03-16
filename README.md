@@ -1,56 +1,52 @@
-# Hi # <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F700FF&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Himanshu+Mani+Tripathi;Computer+Science+Engineer;AI+%26+ML+Innovator;365+Days+of+LeetCode+Grit" /> </p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Himanshu Mani
 
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Himanshu Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimanshuManiTripathi&label=SYSTEM+ACCESS&color=F700FF&style=flat-square" alt="Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+🚀;Building+Diti+AI+Assistant+🤖;Python+%26+DSA+Enthusiast;365+Days+LeetCode+Challenge;Exploring+Space+%26+Mythology" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌌 Mission Log
-Engineering student on a journey to build intelligent systems. I don't just write code; I craft logic.
-
-* 🤖 **Focus:** Deep Learning, Computer Vision (OpenCV), and Neural Networks.
-* 🚀 **Projects:** Developing **Diti**, a personal AI assistant.
-* 🔥 **Streak:** Currently on a **365-Day LeetCode Challenge**.
-* 📜 **Certified:** AI & ML Professional (NIELIT, Gorakhpur).
+### 💫 About Me
+- 🎓 Currently pursuing **B.Tech CSE (3rd Year)**.
+- 🧠 Developing **Diti**, an AI assistant inspired by Jarvis.
+- 🛠️ Deep diving into **Advanced Python, Data Structures, and AI/ML**.
+- 🌌 Interested in **Theoretical Physics, Space Travel**, and **Hindu Mythology**.
+- 💪 On a **90-Day Body Transformation** journey.
 
 ---
 
-### 🛠️ The Tech Arsenal (Neon Glow)
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_ML-Proprietary-FF00FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Grit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,mysql,linux,mongodb&theme=dark" />
 </p>
 
 ---
 
-### 📊 System Diagnostics (Live)
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimanshuManiTripathi&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuManiTripathi&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hiamshu-mani&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiamshu-mani&layout=compact&theme=react&hide_border=true" />
 </p>
 
-### 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/iBdYvC8lHp?theme=dark&font=Istok%20Web" alt="LeetCode Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiamshu-mani&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect with the Architect
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hiamshu-mani/Hiamshu-mani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🏆 Coding Progress
 <p align="left">
-  <a href="https://linkedin.com/in/himanshu-mani-tripathi-377ab4351" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-365--Day--Challenge-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Currently--Learning-AI%20%2F%20ML-blue?style=for-the-badge&logo=python" />
 </p>
 
----
-*"The best way to predict the future is to invent it."*
-
+<p align="center">
+  <i>"Karmanye vadhikaraste ma phaleshu kadachana"</i> 🕉️
+</p>
