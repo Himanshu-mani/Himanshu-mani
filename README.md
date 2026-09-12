@@ -1,4 +1,4 @@
-# Himanshu Mani
+# Himanshu Mani Tripathi
 
 Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
