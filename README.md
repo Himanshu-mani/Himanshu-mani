@@ -1,32 +1,25 @@
 # Himanshu Mani Tripathi
 
-Computer Science & Engineering student exploring **AI, machine learning, and intelligent systems**.
+Computer Science & Engineering student exploring **AI, machine learning, and software engineering**.
 
-I like understanding things from first principles, building software, and experimenting with ideas at the intersection of intelligence and computation.
+I like understanding systems from first principles, building things, and learning by doing.
 
-## Focus
+### Focus
 
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Generative AI & LLMs
-- AI Agents
-- Software Engineering
-- Systems & Robotics
+Artificial intelligence · Machine learning · Generative AI · LLMs · AI agents · Software engineering
 
-## Building
+### Interests
 
-I learn by building — turning concepts into working systems, experimenting with new approaches, and gradually going deeper into the technology behind them.
+AI research · intelligent systems · robotics · space technology · emerging technologies
 
-## Aspiring
+### Building
 
-**AI Engineer · Research-minded Builder · Technologist**
+Projects, experiments, and tools around AI and software.
 
-## Interests Beyond Code
+### Aspiring
 
-Space · Robotics · Hardware · Emerging Technologies
+AI engineer · researcher · technologist
 
-## Philosophy
-
-> Learn deeply. Build relentlessly. Understand how things work.
+### Links
 
 [GitHub](https://github.com/Himanshu-mani) · [Repositories](https://github.com/Himanshu-mani?tab=repositories)
